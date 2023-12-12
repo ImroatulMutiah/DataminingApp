@@ -23,7 +23,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn import svm
 from sklearn import metrics 
 
-st.title(' Aplikasi Web Data Mining')
+st.title(' Aplikasi Web Data Science')
 st.write("""
 ### Klasifikasi tingkat kematian gagal jantung menggunakan Metode Decision tree, Random forest, dan SVM
 """)
